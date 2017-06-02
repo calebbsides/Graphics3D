@@ -1,2 +1,2 @@
 # Graphics3D
-A 3 Dimensional graphics package with included Cube
+A 3 Dimensional graphics package that can transform and draw a cube
